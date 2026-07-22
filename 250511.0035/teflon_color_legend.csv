@@ -1,0 +1,43 @@
+Element,Color
+Crustal Major Elements,#1f77b4
+Marine Aerosol,#ff7f0e
+Secondary Inorganic,#2ca02c
+Regulated Toxic Metals,#d62728
+Combustion Traffic Industrial,#9467bd
+Trace Elements Other,#8c564b
+Al,#1f77b4
+Si,#ff7f0e
+Ti,#2ca02c
+Fe,#d62728
+Ca,#9467bd
+K,#8c564b
+Na,#1f77b4
+Mg,#ff7f0e
+Cl,#2ca02c
+NO3,#1f77b4
+SO4,#ff7f0e
+Pb,#1f77b4
+Cd,#ff7f0e
+Hg,#2ca02c
+As,#d62728
+Cr,#9467bd
+Ni,#8c564b
+V,#1f77b4
+Cu,#ff7f0e
+Zn,#2ca02c
+Mn,#d62728
+Co,#9467bd
+Ba,#8c564b
+Ga,#1f77b4
+Ge,#ff7f0e
+Rb,#2ca02c
+Sr,#d62728
+Y,#9467bd
+Zr,#8c564b
+Mo,#e377c2
+Pd,#7f7f7f
+Ag,#bcbd22
+In,#17becf
+Sn,#1f77b4
+Sb,#ff7f0e
+La,#2ca02c
